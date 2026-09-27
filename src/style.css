@@ -160,11 +160,11 @@ button:disabled {
 .heading span::after {
     content: '';
     position: absolute;
-    bottom: 5px;
+    bottom: 0.1px;
     left: 0;
     width: 100%;
-    height: 6px;
-    background-color: #0051ff;
+    height: 4px;
+    background-color: #0051ffbd;
     z-index: -1;
     border-radius: 4px;
 }
@@ -678,7 +678,7 @@ button:disabled {
 }
 
 .services-heading-block .heading span::after {
-    background-color: #0051ff;
+    background-color: #0051ffbd;
 }
 
 .services-subtitle {
@@ -1083,7 +1083,7 @@ button:disabled {
 }
 
 .testimonials_head h2.heading span::after {
-    background-color: #0051ff;
+    background-color: #0051ffbd;
 }
 
 .testimonials_grid {
