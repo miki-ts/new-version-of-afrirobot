@@ -69,7 +69,7 @@ const Home = ({ onOrderClick }) => {
         </div>
       </div>
       <div className="home-img">
-        <img src="logos/14.avif" alt="Afrirobot Logo" />
+        <img src="logos/94.avif" alt="Afrirobot Logo" />
       </div>
     </section>
   );
